@@ -1,4 +1,7 @@
-Analysis of Swiggy in Bangalore based on Data Scraped from the Website
+Swiggy Food Delivery Analysis
+
+![image](https://github.com/nitinchandra1234/Food-Delivery-Swiggy-/assets/129900069/473be8d4-3673-49c5-a32c-f56f7aae0722)
+
 
 --👁️Project Overview:
 
@@ -76,11 +79,13 @@ These analyses shed light on results into meaningful insights and recommendation
 
 
 📊Visulization
-Screenshot 2023-10-17 135708
+![image](https://github.com/nitinchandra1234/Food-Delivery-Swiggy-/assets/129900069/822874a2-26e8-41ff-97e0-f830c9121f45)
 
 
 
-Screenshot 2023-10-17 140010
+
+![image](https://github.com/nitinchandra1234/Food-Delivery-Swiggy-/assets/129900069/0772f804-c820-49ba-a3ad-54afb1695558)
+
 
 
 
